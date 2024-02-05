@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Home1Android3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">user_name\n</string>
+    <string name="age">age</string>
+    <string name="email">email</string>
+    <string name="continue_s">continum_s</string>
+    <string name="password">password</string>
+    <string name="text4">TEXT4</string>
+    <string name="NAV"><![CDATA[->]]></string>
+    <string name="text3">TEXT3</string>
+    <string name="text2">TEXT2</string>
+    <string name="text1">TEXT1</string>
+    <string name="age2">age2</string>
+    <string name="password2">password2</string>
+    <string name="email2">email2</string>
+    <string name="user_name2">user_name2</string>
+    <string name="continue_2">continue_2</string>
+</resources>
