@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.navigation.fragment.NavHostFragment
 import com.example.home1android3.R
-import com.example.home1android3.model.MainModel
+import com.example.home1android3.model.viewModel.MainModel
 import com.example.kotlin41.ui.prefernce.SharedPreference
 
 class MainActivity : AppCompatActivity() {

@@ -1,8 +1,9 @@
-package com.example.home1android3.model
+package com.example.home1android3.model.viewModel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.example.home1android3.model.UserModel
 
 class SecondViewModel: ViewModel() {
     private var _userData = MutableLiveData<UserModel>()

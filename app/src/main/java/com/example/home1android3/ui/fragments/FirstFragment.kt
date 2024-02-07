@@ -9,8 +9,7 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.example.home1android3.R
 import com.example.home1android3.databinding.FragmentFirstBinding
-import com.example.home1android3.model.RegisterModel
-import com.example.kotlin41.ui.prefernce.SharedPreference
+import com.example.home1android3.model.viewModel.RegisterModel
 
 class FirstFragment : Fragment() {
 

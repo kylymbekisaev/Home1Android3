@@ -9,10 +9,7 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.example.home1android3.R
 import com.example.home1android3.databinding.FragmentSecondBinding
-import com.example.home1android3.model.MainModel
-import com.example.home1android3.model.SecondViewModel
-import com.example.home1android3.model.UserModel
-import com.example.kotlin41.ui.prefernce.SharedPreference
+import com.example.home1android3.model.viewModel.MainModel
 
 class SecondFragment : Fragment() {
 

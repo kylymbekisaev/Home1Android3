@@ -1,9 +1,10 @@
-package com.example.home1android3.model
+package com.example.home1android3.model.viewModel
 
 import android.content.Context
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
+import com.example.home1android3.model.UserModel
 import com.example.kotlin41.ui.prefernce.SharedPreference
 
 class MainModel: ViewModel() {

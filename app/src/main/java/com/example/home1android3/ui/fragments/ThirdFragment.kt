@@ -9,7 +9,7 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.example.home1android3.R
 import com.example.home1android3.databinding.FragmentThirdBinding
-import com.example.home1android3.model.OneModel
+import com.example.home1android3.model.viewModel.OneModel
 
 
 class ThirdFragment : Fragment() {
